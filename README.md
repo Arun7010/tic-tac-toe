@@ -1,6 +1,3 @@
 # Tic-Tac-Toe
-Repository for a [Dev.to article](https://dev.to/bornasepic/pure-and-simple-tic-tac-toe-with-javascript-4pgn)
-
-#### Typescript
-If you're interested in a type supported version of the game checkout the `typescript` branch and follow the instructions from there.
+Explore my Tic Tac Toe project, a Python-based implementation that reimagines the classic game. With a focus on responsive design and strategic gameplay, this code showcases my skills in creating an engaging and intuitive gaming experience. Dive into the logic, analyze the structure, and challenge yourself to a match of wit and skill. Enjoy the journey of discovery in this interactive and well-crafted project.
 
